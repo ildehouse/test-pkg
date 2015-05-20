@@ -1,2 +1,2 @@
-var npmTest = require('text-pkg');
+var npmTest = require('../index.js');
 npmTest.printMsg();
